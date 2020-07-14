@@ -1,9 +1,9 @@
 ﻿{
-  "name": "fhir.base.template",
+  "name": "fhir.carequality.template",
   "type": "fhir.template",
   "license": "CC0-1.0",
-  "description": "FHIR IG Base Template - foundational for use by anyone",
-  "author": "http://hl7.org/fhir",
-  "canonical": "http://fhir.org/templates/fhir.base.template",
+  "description": "FHIR IG Carequality Template",
+  "author": "http://carequlilty.org/",
+  "canonical": "https://github.com/DavidPyke/ig-template-carequality",
   "version": "0.1.0"
 }
