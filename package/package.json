@@ -6,4 +6,7 @@
   "author": "http://carequalilty.org/",
   "canonical": "https://github.com/DavidPyke/ig-template-carequality",
   "version": "0.1.0"
+  "base": "hl7.fhir.template",
+  "dependencies": {
+    "hl7.fhir.template": "current"
 }
