@@ -5,9 +5,9 @@
 	"description": "FHIR IG Carequality Template",
 	"author": "http://carequalilty.org/",
 	"canonical": "https://github.com/DavidPyke/ig-template-carequality",
-	"version": "0.1.0",
+	"version": "current",
 	"base": "fhir.base.template",
 	"dependencies": {
-		"fhir.base.template": "0.1.0"
+		"fhir.base.template": "current"
 	}
 }
