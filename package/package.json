@@ -8,6 +8,6 @@
 	"version": "0.1.0",
 	"base": "fhir.base.template",
 	"dependencies": {
-		"fhir.base.template": "current"
+		"fhir.base.template": "0.1.0"
 	}
 }
