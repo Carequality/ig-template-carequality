@@ -10,7 +10,7 @@
       "path": "https://build.fhir.org/ig/hl7/ig-template-carequality",
       "status": "ci-build",
       "current": true
-    }
+    },
     {
       "version": "0.1.0",
       "desc": "stable for use with sushi 0.16.0",
