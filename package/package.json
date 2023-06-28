@@ -4,7 +4,7 @@
 	"license": "CC0-1.0",
 	"description": "FHIR IG Carequality Template",
 	"author": "http://carequalilty.org/",
-	"canonical": "https://github.com/DavidPyke/ig-template-carequality",
+	"canonical": "https://github.com/Carequality/ig-template-carequality",
 	"version": "current",
 	"base": "fhir.base.template",
 	"dependencies": {
